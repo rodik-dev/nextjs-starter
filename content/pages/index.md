@@ -11,6 +11,8 @@ sections:
       - label: Read the Docs
         url: 'https://docs.stackbit.com/'
         theme: secondary
+    subheading: |
+      dsfghsdhdfhj
   - type: CardGridSection
     heading: Jump to Topic
     subheading: |
