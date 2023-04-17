@@ -19,6 +19,8 @@ sections:
       <div style="text-align: center">## Or jump right to a specific topic to
       help you build your site.</div>
 
+
+
     cards:
       - heading: How Stackbit Works →
         subheading: |
