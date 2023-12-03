@@ -5,5 +5,9 @@ sections:
   - type: HeroSection
     heading: Hero Heading
     subheading: Hero Subheading
-    buttons: []
+    buttons:
+      - type: Button
+        label: Click Me
+        url: /8998
+        theme: primary
 ---
