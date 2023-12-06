@@ -7,6 +7,7 @@ module.exports = {
       name: 'subheading',
       default: 'Card description goes here ...',
     },
+        {type:  'image', name: 'img' },
     { type: 'string', name: 'url', label: 'URL', default: '/' },
   ],
 };
