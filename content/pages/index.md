@@ -41,4 +41,8 @@ sections:
           Set up global styles and add a styling toolbar to individual
           components in the visual editor.
         url: 'https://docs.stackbit.com/how-to-guides/styles/'
+      - type: Card
+        heading: Card Heading
+        subheading: Card description goes here ...
+        url: /
 ---
